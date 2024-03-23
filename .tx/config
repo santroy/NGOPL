@@ -1,0 +1,100 @@
+[main]
+host = https://www.transifex.com
+
+[o:needy-girl-overload-polish-translation-team:p:needy-girl-overdose:r:actjson]
+file_filter = translations/<lang>/Act.json
+minimum_perc = 0
+#source_file = translations/original/Act-original.json
+source_lang = en
+type = KEYVALUEJSON
+
+[o:needy-girl-overload-polish-translation-team:p:needy-girl-overdose:r:cmdjson]
+file_filter = translations/<lang>/Cmd.json
+minimum_perc = 0
+#source_file = translations/original/Cmd-original.json
+source_lang = en
+type = KEYVALUEJSON
+
+[o:needy-girl-overload-polish-translation-team:p:needy-girl-overdose:r:egosajson]
+file_filter = translations/<lang>/Egosa.json
+minimum_perc = 0
+#source_file = translations/original/Egosa-original.json
+source_lang = en
+type = KEYVALUEJSON
+
+[o:needy-girl-overload-polish-translation-team:p:needy-girl-overdose:r:endingjson]
+file_filter = translations/<lang>/Ending.json
+minimum_perc = 0
+#source_file = translations/original/Ending-original.json
+source_lang = en
+type = KEYVALUEJSON
+
+[o:needy-girl-overload-polish-translation-team:p:needy-girl-overdose:r:kitunejson]
+file_filter = translations/<lang>/Kitune.json
+minimum_perc = 0
+#source_file = translations/original/Kitune-original.json
+source_lang = en
+type = KEYVALUEJSON
+
+[o:needy-girl-overload-polish-translation-team:p:needy-girl-overdose:r:krepjson]
+file_filter = translations/<lang>/KRep.json
+minimum_perc = 0
+#source_file = translations/original/KRep-original.json
+source_lang = en
+type = KEYVALUEJSON
+
+[o:needy-girl-overload-polish-translation-team:p:needy-girl-overdose:r:kusocommentjson]
+file_filter = translations/<lang>/KusoComment.json
+minimum_perc = 0
+#source_file = translations/original/KusoComment-original.json
+source_lang = en
+type = KEYVALUEJSON
+
+[o:needy-girl-overload-polish-translation-team:p:needy-girl-overdose:r:linejson]
+file_filter = translations/<lang>/Line.json
+minimum_perc = 0
+#source_file = translations/original/Line-original.json
+source_lang = en
+type = KEYVALUEJSON
+
+[o:needy-girl-overload-polish-translation-team:p:needy-girl-overdose:r:mobcommentjson]
+file_filter = translations/<lang>/MobComment.json
+minimum_perc = 0
+#source_file = translations/original/MobComment-original.json
+source_lang = en
+type = KEYVALUEJSON
+
+[o:needy-girl-overload-polish-translation-team:p:needy-girl-overdose:r:systemtextjson]
+file_filter = translations/<lang>/SystemText.json
+minimum_perc = 0
+#source_file = translations/original/SystemText-original.json
+source_lang = en
+type = KEYVALUEJSON
+
+[o:needy-girl-overload-polish-translation-team:p:needy-girl-overdose:r:tencommentjson]
+file_filter = translations/<lang>/TenComment.json
+minimum_perc = 0
+#source_file = translations/original/TenComment-original.json
+source_lang = en
+type = KEYVALUEJSON
+
+[o:needy-girl-overload-polish-translation-team:p:needy-girl-overdose:r:tooltipjson]
+file_filter = translations/<lang>/Tooltip.json
+minimum_perc = 0
+#source_file = translations/original/Tooltip-original.json
+source_lang = en
+type = KEYVALUEJSON
+
+[o:needy-girl-overload-polish-translation-team:p:needy-girl-overdose:r:tweetjson]
+file_filter = translations/<lang>/Tweet.json
+minimum_perc = 0
+#source_file = translations/original/Tweet-original.json
+source_lang = en
+type = KEYVALUEJSON
+
+[o:needy-girl-overload-polish-translation-team:p:needy-girl-overdose:r:yakujojson]
+file_filter = translations/<lang>/yakujo.json
+minimum_perc = 0
+#source_file = translations/original/yakujo-original.json
+source_lang = en
+type = KEYVALUEJSON
